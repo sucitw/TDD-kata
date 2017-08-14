@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+TDD-django/chromedriver
+TDD-django/geckodriver
+TDD-django/superlists/db.sqlite3
+
+.vscode/
